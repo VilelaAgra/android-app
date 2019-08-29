@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginAndroid</string>
+    <string name="enter_name">Digite seu Nome</string>
+    <string name="password">Digite seu Nome</string>
+    <string name="login">Entrar</string>
+    <string name="registration">Registrar</string>
+    <string name="toast">Toast</string>
+    <string name="create_name">Digite seu nome</string>
+    <string name="create_password">Digite sua seha</string>
+    <string name="create_email">Digite seu email</string>
+    <string name="create">Registrar</string>
+    <string name="back_login">Voltar ao Login</string>
+</resources>
