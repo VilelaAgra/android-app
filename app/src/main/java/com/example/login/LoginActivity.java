@@ -34,8 +34,8 @@ public class LoginActivity extends AppCompatActivity {
                 editor.putString("display",userDetails);
                 editor.commit();
 
-                Intent displayScreen = new Intent(LoginActivity.this, Home.class);
-                startActivity(displayScreen);
+                Intent HomeScreen = new Intent(LoginActivity.this, Home.class);
+                startActivity(HomeScreen);
             }
         });
 
